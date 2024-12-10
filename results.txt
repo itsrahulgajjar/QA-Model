@@ -1,0 +1,59 @@
+Input 1:
+
+{"question": "A patient with a long history of smoking presents with elevated hemoglobin"}
+
+Output:
+
+{
+    "closest_question": "A patient with a long history of smoking presents with elevated hemoglobin and normal WBC and platelet counts. Which of the following laboratory findings is most likely associated with this condition?",
+    "generated_response": "explanation : in secondary polycythemia, erythropoietin levels are elevated due to chronic hypoxemia or other stimuli. this contrasts with primary polycythemia, where erythropoietin levels are typically low. overview of secondary polycythemia secondary polycythemia, also known as secondary erythrocytosis, is a condition characterized by an increase in red blood cell ( rbc ) production in response to chronic hypoxemia or other stimuli that trigger the kidneys to produce more erythropoietin ( epo ). unlike primary polycythemia ( such as polycythemia rubra vera ), secondary polycythemia is not due to a clonal bone marrow disorder but rather a physiological response to external factors. pathophysiology in secondary polycythemia, chronic hypoxemia leads to increased production of erythropoietin by the kidneys. this hormone stimulates the bone marrow to produce more rbcs to improve the oxygen - carrying capacity of the blood, which is a compensatory mechanism in response to low oxygen levels. causes of secondary polycythemia chronic hypoxemia : chronic obstructive pulmonary disease ( copd ) : hypoxemia due to impaired lung function stimulates increased rbc production. high altitudes : low oxygen levels at high altitudes can lead to polycythemia as the body adapts to the reduced oxygen availability. cyanotic congenital heart disease : conditions like tetralogy of fallot or eisenmenger syndrome, which cause chronic hypoxemia, lead to increased erythropoiesis. other causes : smoking : chronic carbon monoxide exposure from smoking can lead to carboxyhemoglobin formation and tissue hypoxia, which in turn stimulates rbc production. renal tumors or cysts : can produce excess erythropoietin, leading to secondary polycythemia. laboratory findings elevated hemoglobin ( hgb ) and hematocrit : the hallmark of secondary polycythemia is an isolated increase in hemoglobin and hematocrit levels, reflecting increased rbc mass. normal white blood cell ( wbc ) and platelet counts : unlike primary polycythemia, secondary polycythemia does not involve the proliferation of wbcs or platelets, so a patient with a long history of smoking presents with elevated hemoglobin",
+    "id": "1114"
+}
+
+Input 2:
+
+{"question": "what is testing"}
+
+Output:
+
+{
+    "closest_question": "what is keyboard?",
+    "generated_response": "282uly @ gmail. com282uly @ gmail. com282uly @ gmail. com282uly @ gmail. com na piyush deshmukhg dgdgd e g bgf hfh h rh rhf hf hfh fhf",
+    "id": "11"
+}
+
+Input 3:
+
+{"question": "A 25-year-old man reports swelling in his neck and unintentional weight loss over the past 6 months. He has also been experiencing night sweats. Physical examination reveals a non-tender, rubbery lymph node in the supraclavicular region. What is the most likely diagnosis?"}
+
+Output:
+
+{
+    "closest_question": "A 25-year-old man reports swelling in his neck and unintentional weight loss over the past 6 months. He has also been experiencing night sweats. Physical examination reveals a non-tender, rubbery lymph node in the supraclavicular region. What is the most likely diagnosis?",
+    "generated_response": "explanation : the combination of painless lymphadenopathy, weight loss, and night sweats ( b symptoms ) strongly suggests hodgkin ' s lymphoma. overview of hodgkin ' s lymphoma hodgkin ' s lymphoma is a type of malignant tumor that originates in the lymphatic system. it is characterized by the presence of reed - sternberg cells, which are large, abnormal, multinucleated cells found in lymph node biopsies. hodgkin ' s lymphoma typically presents with painless lymphadenopathy, often in the neck, along with systemic symptoms such as fever, night sweats, and weight loss, collectively known as \" b symptoms, \" which indicate a poorer prognosis. epidemiology hodgkin ' s lymphoma has a bimodal age distribution, with peaks in young adults ( 15 - 35 years ) and another peak in older adults ( around 60 years ). the disease is slightly more common in males than females. clinical presentation lymphadenopathy : the most common initial presentation is painless, non - tender, ‘ rubbery ’ enlargement of lymph nodes, typically in the lower neck or supraclavicular region. lymph nodes in the mediastinum can also be involved, which may be detected on a chest x - ray as a mediastinal mass. systemic symptoms ( b symptoms ) : fever : unexplained, persistent fever. night sweats : profuse sweating at night. weight loss : unintentional loss of more than 10 % of body weight over 6 months. these symptoms are associated with a poorer prognosis. other symptoms : pruritus : generalized itching without an apparent rash. lethargy : persistent fatigue. alcohol - induced pain : pain at the sites of lymph nodes after alcohol consumption, which is a rare but specific symptom for hodgkin ' s lymphoma. hepatosplenomegaly : enlarged liver or spleen may be present. superior ve [SEP] a 25 - year - old man reports swelling in his neck and unintentional weight loss over the past 6 months. he has also been experiencing night sweats. physical examination reveals a non - tender, rubbery lymph node in the supraclavicular region. what is the most likely diagnosis?",
+    "id": "1118"
+}
+
+Input 4:
+
+{"question": "Who is Rahul Gajjar"}
+
+Output:
+
+{
+    "closest_question": "what is keyboard?",
+    "generated_response": "282uly @ gmail. com282uly @ gmail. com282uly @ gmail. com282uly @ gmail. com na overview of uterine fibroids introduction uterine fibroids, also known as leiomyomas or myomas, are benign smooth muscle tumors of the uterus. most women will develop fibroids at some point in their life, but not all will experience symptoms or require treatment. types of uterine fibroids type location common symptoms intramural within the muscular uterine wall often asymptomatic, but can cause menorrhagia and pelvic pain if large. submucosal beneath the endometrium, into the uterine cavity menorrhagia, dysmenorrhea due to interference with the uterine lining. subserosal on the external surface of the uterus may cause pressure on other pelvic organs leading to pain and increased urinary frequency. clinical presentation uterine fibroids are often asymptomatic but can be associated with a range of symptoms depending on their size, location, and number. symptoms may include : menorrhagia ( heavy menstrual bleeding ) dysmenorrhea ( painful periods ) abdominal and lower back pain increased urinary frequency constipation due to pressure on adjacent pelvic organs risk factors age : fibroids are more common as women age, especially in the 30 - 50 year age group. ethnicity : afro - caribbean women are more likely to develop fibroids and at a younger age. obesity : increased body weight is associated with a higher risk of fibroids. family history : having a family member with fibroids increases a woman ' s risk. management of uterine fibroids management strategies for fibroids depend on the severity of symptoms, the fibroids ' size and location, and the patient ' s reproductive goals. situation treatment options asymptomatic regular follow - up to monitor for growth. menorrhagia levonorgestrel - releasing ius ( e. g., mirena ), tranexamic acid, nsaids, cocp. severe menorrhagia ulipristal acetate for up to four 3 - month courses, especially pre - operatively to reduce fibroid size. desire for fertility myomectomy to remove fibroids",
+    "id": "11"
+}
+
+Input 5:
+
+{"question": "male presents with bone pain, fatigue, and recurrent infections. Laboratory tests reveal anemia and hypercalcemia. Serum protein electrophoresis shows a monoclonal spike. What is the most likely finding on urine protein electrophoresis?"}
+
+Output:
+
+{
+    "closest_question": "A 70-year-old male presents with bone pain, fatigue, and recurrent infections. Laboratory tests reveal anemia and hypercalcemia. Serum protein electrophoresis shows a monoclonal spike. What is the most likely finding on urine protein electrophoresis?",
+    "generated_response": "explanation : bence jones proteins, which are free light chains of immunoglobulins, are typically found in the urine of patients with multiple myeloma and are a key diagnostic marker. overview of multiple myeloma multiple myeloma ( mm ) is a cancer of plasma cells, a type of white blood cell responsible for producing antibodies. in mm, malignant plasma cells accumulate in the bone marrow, leading to the overproduction of abnormal immunoglobulins ( m proteins ) and the disruption of normal blood cell production. this results in various clinical manifestations, including bone destruction, renal failure, anemia, hypercalcemia, and recurrent infections. pathophysiology in mm, the malignant plasma cells not only replace normal bone marrow but also produce large amounts of monoclonal immunoglobulins that are non - functional. these immunoglobulins can lead to hyperviscosity syndrome, and their deposition in organs may cause amyloidosis. the destruction of bone is due to increased osteoclast activity stimulated by the malignant cells. clinical presentation : crab + infections hypercalcemia ( c ) : symptoms include polyuria, polydipsia, constipation, weight loss, and altered mental status. hypercalcemia occurs due to bone resorption and is a common feature of mm. renal failure ( r ) : elevated creatinine and urea levels are indicative of renal impairment, which is common in mm due to the deposition of monoclonal proteins ( light chains ) in the kidneys. anemia ( a ) : normocytic, normochromic anemia is the most common lab finding in mm, leading to symptoms of fatigue, weakness, and pallor. bone disease ( b ) : bone pain, especially in the back and ribs, is the most common clinical symptom. pathologic fractures and lytic bone lesions ( \" punched out \" on x - ray ) are characteristic of mm. infections : patients with mm are prone to recurrent infections due to the suppression of normal immunoglobulin production by the malignant plasma cells. diagnostic workup serum protein electrophoresis : detects the presence male presents with bone pain, fatigue, and recurrent infections. laboratory tests reveal anemia and hypercalcemia. serum protein electrophoresis shows a monoclonal spike. what is the most likely finding on urine protein electrophoresis?",
+    "id": "1128"
+}
